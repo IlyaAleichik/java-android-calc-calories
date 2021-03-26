@@ -1,1 +1,1 @@
-# JAVA_ANDROID_Calc
+# JAVA_ANDROID_CalcCalories
